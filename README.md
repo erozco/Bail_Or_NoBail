@@ -105,6 +105,10 @@ Copy/clone the needed file in this repository. Run each cell in order in the Jup
 
 Copy/clone the needed file in this repository. Run app.py
 
+### Demonstration
+
+View dasboard in action under 'Video' file in repository.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
